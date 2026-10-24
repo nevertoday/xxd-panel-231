@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-231
-description: "Create XXD Panel 231 raster artwork: a faithful photograph paired with a contemporary neo-naïve hand drawing with loose shaky coloured outlines, marker and coloured-pencil marks, rounded imperfect shapes and a small subject on warm cream paper. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-231 or asks for this 新稚拙手绘 style."
+description: "XXD Panel 231｜Neo-Naïve Hand Drawing: keeps only the few shapes and relationships that recall a photo and redraws them as a small contemporary neo-naïve illustration — loose, slightly wobbly coloured outlines of uneven weight, casual marker and coloured-pencil strokes, rounded irregular organic shapes and slightly clumsy proportions in a simple flat 2D structure with almost no shading — on warm cream paper with visible paper grain, pencil texture and marker layering, in warm matte colours drawn from the photo (soft red, apricot, butter yellow, leaf green, dusty pink, a little cobalt), lots of empty space and one loose, thin handwritten line. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-231 or asks for neo-naïve, wobbly-line marker and coloured-pencil drawing from a photo."
 ---
 
 # XXD Panel 231

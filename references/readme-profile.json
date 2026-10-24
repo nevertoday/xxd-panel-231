@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 231｜Neo-Naïve Hand Drawing: keeps only the few shapes and relationships that recall a photo and redraws them as a small contemporary neo-naïve illustration — loose, slightly wobbly coloured outlines of uneven weight, casual marker and coloured-pencil strokes, rounded irregular organic shapes and slightly clumsy proportions in a simple flat 2D structure with almost no shading — on warm cream paper with visible paper grain, pencil texture and marker layering, in warm matte colours drawn from the photo (soft red, apricot, butter yellow, leaf green, dusty pink, a little cobalt), lots of empty space and one loose, thin handwritten line. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-231 or asks for neo-naïve, wobbly-line marker and coloured-pencil drawing from a photo.",
+  "short_description": "新稚拙手绘：把照片收成一小块摇晃彩色描边、马克笔加彩铅的新稚拙手绘",
+  "zh-CN": {
+    "name": "新稚拙手绘",
+    "tagline": "把照片收成一小块松动的彩色手绘：摇晃描边、马克笔和彩铅，四周大量留白。",
+    "look": "只留下少数能唤起照片记忆的形状和关系，重画成一小块当代新稚拙风手绘：彩色描边松动、微微摇晃、粗细不均，马克笔和彩铅的笔触很随性，形状圆润不规则，比例略显笨拙，几乎不画体积和光影，是简单的平面 2D。看得见纸纹、彩铅颗粒、马克笔叠色，边缘有越线和停顿。颜色从照片里选最有情绪的几种，暖而哑光，如柔红、杏橙、奶油黄、草木绿、灰粉，偶尔一点钴蓝。底是温暖的奶油白，主体小，四周空气很多，配一句纤细、略摇晃的手写短句。",
+    "traits": [
+      "新稚拙",
+      "松动彩色描边",
+      "马克笔彩铅",
+      "小尺度主体",
+      "奶油纸",
+      "大量留白"
+    ],
+    "good": [
+      "有生活趣味的小场景：吃冰淇淋的孩子、阳台上的绿植、一只打哈欠的猫",
+      "形状简单的单个物件：一双鞋、一盏台灯、一辆自行车",
+      "想做个人相册、独立文具、贺卡或小型艺术出版物的照片"
+    ],
+    "poor": [
+      "需要精确线条和比例的照片：建筑、机械、产品图",
+      "需要庄重、正式感的用途：商务头像、正式海报标题",
+      "想要光滑矢量、精修边缘、复杂阴影或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Neo-Naïve Hand Drawing",
+    "tagline": "Turns a photo into a small, loose colour drawing: wobbly outlines, marker and pencil, lots of space.",
+    "look": "Only the few shapes and relationships that bring back the photo are kept and redrawn as a small contemporary neo-naïve illustration: loose, slightly wobbly coloured outlines of uneven thickness, casual marker and coloured-pencil strokes, rounded irregular shapes and slightly clumsy proportions, almost no volume or shading, all kept simple and flat. You can see paper texture, pencil grain and layered marker, with lines that stray outside the edges and pause. Colours are the most emotional ones from the photo, warm and matte, such as soft red, apricot, butter yellow, leaf green and dusty pink, with an occasional touch of cobalt. The ground is warm cream, the subject is small with lots of air around it, and one thin, slightly wavering handwritten line is added.",
+    "traits": [
+      "Neo-naïve",
+      "Loose coloured outlines",
+      "Marker and coloured pencil",
+      "Small subject",
+      "Cream paper",
+      "Lots of white space"
+    ],
+    "good": [
+      "Small scenes with everyday charm: a child eating ice cream, plants on a balcony, a yawning cat",
+      "Single objects with a simple shape: a pair of shoes, a desk lamp, a bicycle",
+      "Photos you want for a personal album, indie stationery, a greeting card or a small art publication"
+    ],
+    "poor": [
+      "Photos that need exact lines and proportions: architecture, machinery, product shots",
+      "Uses that call for a serious, formal tone: business headshots, formal poster titles",
+      "Requests for smooth vectors, polished edges, complex shadows or 3D"
+    ]
+  },
+  "ja": {
+    "name": "ネオ・ナイーブ手描き",
+    "tagline": "写真を、揺れる色線、マーカー、色鉛筆で描いた小さくゆるい手描きにし、余白をたっぷり取ります。",
+    "look": "写真の記憶を呼び起こす少しの形と関係だけを残し、小さな現代のネオ・ナイーブ風手描きに描き直します。色の輪郭線はゆるく、少し揺れ、太さはふぞろいで、マーカーと色鉛筆の筆致は気ままです。形は丸く不規則で、比率は少しぎこちなく、立体感や陰影はほとんどないシンプルな平面です。紙の目、色鉛筆の粒子、マーカーの重ね塗りが見え、線のはみ出しや止まりもあります。色は写真でいちばん気持ちのこもった数色を取り、暖かくマットな柔らかい赤、アプリコット、バターイエロー、草色、くすんだピンクに、ときどきコバルトブルーを少し。地は暖かなクリーム色で、主役は小さく、まわりに空気がたっぷりあり、細く少し揺れる手書きの一言が添えられます。",
+    "traits": [
+      "ネオ・ナイーブ",
+      "ゆるい色の輪郭線",
+      "マーカーと色鉛筆",
+      "小さな主役",
+      "クリーム色の紙",
+      "たっぷりの余白"
+    ],
+    "good": [
+      "暮らしの楽しさがある小さな場面：アイスを食べる子ども、ベランダの植物、あくびする猫",
+      "形がシンプルな一つの物：靴、デスクランプ、自転車",
+      "個人のアルバム、インディーの文具、グリーティングカード、小さなアート出版物にしたい写真"
+    ],
+    "poor": [
+      "正確な線と比率が必要な写真：建築、機械、商品写真",
+      "改まった真面目さが求められる用途：ビジネス用の顔写真、正式なポスターの見出し",
+      "なめらかなベクター、整えた縁、複雑な影、3Dを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "네오 나이브 손그림",
+    "tagline": "사진을 흔들리는 색선, 마커, 색연필로 그린 작고 느슨한 손그림으로 담고 여백을 넉넉히 둡니다.",
+    "look": "사진의 기억을 떠올리게 하는 몇 가지 형태와 관계만 남겨 작은 현대 네오 나이브풍 손그림으로 다시 그립니다. 색 윤곽선은 느슨하고 살짝 흔들리며 굵기가 고르지 않고, 마커와 색연필 붓질은 자유롭습니다. 형태는 둥글고 불규칙하며 비례는 조금 어설프고, 입체감과 명암은 거의 없는 단순한 평면입니다. 종이결, 색연필 입자, 마커 겹칠이 보이고 선이 삐져나가거나 멈춘 자국도 있습니다. 색은 사진에서 감정이 가장 많이 담긴 몇 가지를 골라 따뜻하고 무광인 부드러운 빨강, 살구색, 버터 노랑, 풀색, 탁한 분홍으로 쓰고, 가끔 코발트를 조금 더합니다. 바탕은 따뜻한 크림색이고 주인공은 작으며 주변에 공기가 많고, 가늘고 살짝 흔들리는 손글씨 한 줄이 들어갑니다.",
+    "traits": [
+      "네오 나이브",
+      "느슨한 색 윤곽선",
+      "마커와 색연필",
+      "작은 주인공",
+      "크림색 종이",
+      "넉넉한 여백"
+    ],
+    "good": [
+      "생활의 재미가 있는 작은 장면: 아이스크림 먹는 아이, 베란다 화분, 하품하는 고양이",
+      "형태가 단순한 하나의 사물: 신발 한 켤레, 스탠드, 자전거",
+      "개인 앨범, 독립 문구, 카드, 작은 예술 출판물로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "정확한 선과 비례가 필요한 사진: 건축, 기계, 제품 사진",
+      "격식과 진지함이 필요한 용도: 비즈니스 프로필 사진, 공식 포스터 제목",
+      "매끈한 벡터, 다듬은 가장자리, 복잡한 그림자, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رسم يدوي بروح السذاجة الجديدة",
+    "tagline": "يحوّل الصورة إلى رسم ملوّن صغير حرّ بخطوط مرتعشة وقلم تحديد وأقلام ملونة، مع فراغ واسع.",
+    "look": "لا يبقى إلا القليل من الأشكال والعلاقات التي تستحضر الصورة، ويُعاد رسمها منمنمة معاصرة بروح السذاجة الجديدة: حدود ملونة حرّة مرتعشة قليلاً متفاوتة السماكة، وضربات عفوية بقلم التحديد والأقلام الملونة، وأشكال عضوية مستديرة غير منتظمة ونِسب فيها شيء من الخرق، بلا حجم أو تظليل تقريباً، في بنية مسطّحة بسيطة. يظهر ملمس الورق وحبيبات القلم الملون وطبقات قلم التحديد، مع خطوط تتجاوز الحدود أو تتوقف. الألوان هي أكثر ألوان الصورة عاطفة، دافئة غير لامعة، مثل الأحمر الناعم والمشمشي والأصفر الزبدي والأخضر العشبي والوردي الرمادي، مع لمسة كوبالتية أحياناً. الخلفية كريمية دافئة، والعنصر صغير حوله هواء كثير، ومعه سطر واحد رفيع بخط يد متمايل قليلاً.",
+    "traits": [
+      "السذاجة الجديدة",
+      "حدود ملونة حرّة",
+      "قلم تحديد وأقلام ملونة",
+      "عنصر صغير",
+      "ورق كريمي",
+      "فراغ واسع"
+    ],
+    "good": [
+      "مشاهد صغيرة فيها طرافة يومية: طفل يأكل آيس كريم، نباتات على شرفة، قطة تتثاءب",
+      "شيء واحد بسيط الشكل: زوج أحذية، مصباح مكتب، دراجة",
+      "صور تريدها لألبوم شخصي أو قرطاسية مستقلة أو بطاقة تهنئة أو مطبوعة فنية صغيرة"
+    ],
+    "poor": [
+      "صور تحتاج إلى خطوط ونِسب دقيقة: عمارة، آلات، صور منتجات",
+      "استخدامات تتطلب طابعاً جاداً رسمياً: صور شخصية للعمل، عناوين ملصقات رسمية",
+      "طلب رسوم متجهية ناعمة أو حواف مصقولة أو ظلال معقدة أو مظهر ثلاثي الأبعاد"
+    ]
+  }
+}
